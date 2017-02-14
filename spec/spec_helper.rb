@@ -1,7 +1,7 @@
 
 RSpec.configure do |config|
 
-  def __
+  def ___
     # raise "replace underscore with code"
   end
 
